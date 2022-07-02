@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Domain.Repository\Domain.Repository.csproj" />
+    <ProjectReference Include="..\Services.Operation\Services.Operation.csproj" />
   </ItemGroup>
 
 </Project>
